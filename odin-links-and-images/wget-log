@@ -1,0 +1,16 @@
+--2026-05-23 10:41:48--  https://unsplash.com/photos/Mv9hjnEUHR4/download?force=true
+Resolving unsplash.com (unsplash.com)... 151.101.65.181, 151.101.129.181, 151.101.193.181, ...
+Connecting to unsplash.com (unsplash.com)|151.101.65.181|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg [following]
+--2026-05-23 10:41:48--  https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg
+Resolving images.unsplash.com (images.unsplash.com)... 199.232.154.208, 2a04:4e42:66::720
+Connecting to images.unsplash.com (images.unsplash.com)|199.232.154.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1202599 (1.1M) [image/jpeg]
+Saving to: ‘images/download?force=true’
+
+download?force=true         0%[                                    ]       0  --.-KB/s               download?force=true       100%[===================================>]   1.15M  --.-KB/s    in 0.04s   
+
+2026-05-23 10:41:48 (32.4 MB/s) - ‘images/download?force=true’ saved [1202599/1202599]
+
